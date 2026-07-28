@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Gym"
+  short_description: "Daily frontend drills to prevent skill atrophy"
+  default_prompt: "Use $frontend-gym to give me today’s focused frontend practice session."
